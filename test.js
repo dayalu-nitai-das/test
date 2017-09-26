@@ -1,2 +1,2 @@
-document.getElementById("test").innerHTML="Hare Krishna";
+document.getElementById("test").innerHTML="Hare Rama";
 alert("File is hosted correctly");
